@@ -1,8 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "management.endpoint.web.exposure.include",
-      "type": "java.lang.String",
-      "description": "Description for management.endpoint.web.exposure.include."
-  }
-] }
